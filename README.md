@@ -10,7 +10,7 @@
 [나도코딩 유튜브](https://www.youtube.com/@nadocoding/featured)
 <br>
 
-#### CodingDojang
+#### CodingDojang 23.07.28 ~
 <보고있는 도서><br>
 [파이썬 코딩 도장](https://www.yes24.com/Product/Goods/66758183)
 
